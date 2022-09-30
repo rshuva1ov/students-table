@@ -1,0 +1,14 @@
+th {
+  cursor: pointer;
+  user-select: none;
+}
+
+.span {
+  color: red;
+  display: block;
+  transform: translateY(-9px);
+}
+
+.let {
+  background-color: red;
+}
